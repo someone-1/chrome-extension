@@ -1,4 +1,4 @@
-# chrome_extension_download_video
+# chrome extension download video
 
 a simple google chrome extension to download videos
 
